@@ -64,5 +64,7 @@
   },
   "devDependencies": {
     "@types/js-cookie": "^3.0.6"
-  }
+  },
+  "homepage": "https://ghassu.github.io/visitor-management",
+}
 }
